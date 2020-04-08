@@ -1,4 +1,3 @@
 playlist = {
   swift: "lover"
 }
-
